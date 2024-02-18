@@ -1,4 +1,3 @@
-Nutuk,M.Kemal Atatürk,1927,658
 Ben Robot,Isaac Asimov,1950,240
 Fahrenheit 451,Ray Bradbury,1953,208
 1984,George Orwell,1949,352
